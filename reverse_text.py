@@ -1,2 +1,3 @@
-hello worls
+def reverse_text(value):
+  return value[::-1]
 
